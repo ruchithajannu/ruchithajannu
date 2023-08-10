@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi👋 I'm Ruchitha</h1>
 <h3 align="center">Computer Science Engineer</h3>
-<h4 align="center">Cloud Enthusiast</h4>
 
 - 📩 How to reach me **ruchitha_jannu@srmap.edu.in**
 

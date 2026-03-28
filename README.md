@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on FastAPI and machine learning projects<br>- 👯 I’m looking to collaborate on backend development and AI-driven applications<br>- 🤝 I’m looking for help with production-ready system design and deployment<br>- 🌱 I’m currently learning distributed systems, cloud engineering, and advanced NLP<br>- 💬 Ask me about Python, FastAPI, Django, PostgreSQL, REST APIs, and transformers<br>- ⚡ Fun fact: I love turning ideas into reliable products with clean backend architecture
+🔭 I’m currently working on FastAPI and machine learning projects<br> 👯 I’m looking to collaborate on backend development and AI-driven applications<br> 🤝 I’m looking for help with production-ready system design and deployment<br> 🌱 I’m currently learning distributed systems, cloud engineering, and advanced NLP<br> 💬 Ask me about Python, FastAPI, Django, PostgreSQL, REST APIs, and transformers<br> ⚡ Fun fact: I love turning ideas into reliable products with clean backend architecture
 
 
 ## 🌐 Socials:
